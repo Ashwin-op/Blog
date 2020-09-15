@@ -12,7 +12,7 @@
   "dependencies": {
     "@narative/gatsby-theme-novela": "^0.14.0",
     "gatsby": "^2.20.22",
-    "gatsby-plugin-manifest": "^2.3.3",
+    "gatsby-plugin-manifest": "^2.4.29",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "typescript": "^3.8.3"
